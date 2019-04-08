@@ -1,0 +1,6 @@
+{
+  "corpusPath":"E:\\毕业论文\\data\\tmp\\OriginalData",
+  "savePath":"E:\\毕业论文\\data\\tmp\\fenci",
+  "stopWordsPath":"stopWords.txt",
+  "IDFPath":"E:\\毕业论文\\data\\tmp\\IDF.txt"
+}
